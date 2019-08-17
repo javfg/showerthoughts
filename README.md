@@ -1,4 +1,4 @@
-# Random Showertought on terminal start
+# Random Showertought on shell start
 
 This scripts based on [a reddit post](https://www.reddit.com/r/linux/comments/4jx4oh/get_a_random_rshowerthoughts_post_as_your_shell/) shows a random [showertought](https://www.reddit.com/r/Showerthoughts/) spoken by a colorful animal when you open your terminal.
 
