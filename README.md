@@ -17,4 +17,4 @@ For Debian based distributions:
 
 * Clone repo to a local directory.
 * Add a [weekly cron](https://www.google.com/search?q=how+to+create+a+weekly+cron&oq=how+to+create+a+weekly+cron) entry that executes `getshowertoughts.sh <username>`. It should `cd` to the directory where the scripts are stored before execution.
-* Add `showerthoughts.sh` to your shell's _rc_ file.
+* Add a call to `showerthoughts.sh` to your shell's _rc_ file.
